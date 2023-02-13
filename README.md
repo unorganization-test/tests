@@ -1,3 +1,5 @@
 # tests
 
 :ok
+
+:DoubleOK
